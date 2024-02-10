@@ -1,0 +1,7 @@
+C:\Users\ilkay\source\repos\KargoOdemeSimülasyon\KargoOdemeSimülasyon\bin\Debug\KargoOdemeSimülasyon.exe.config
+C:\Users\ilkay\source\repos\KargoOdemeSimülasyon\KargoOdemeSimülasyon\bin\Debug\KargoOdemeSimülasyon.exe
+C:\Users\ilkay\source\repos\KargoOdemeSimülasyon\KargoOdemeSimülasyon\bin\Debug\KargoOdemeSimülasyon.pdb
+C:\Users\ilkay\source\repos\KargoOdemeSimülasyon\KargoOdemeSimülasyon\obj\Debug\KargoOdemeSimülasyon.csproj.AssemblyReference.cache
+C:\Users\ilkay\source\repos\KargoOdemeSimülasyon\KargoOdemeSimülasyon\obj\Debug\KargoOdemeSimülasyon.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\source\repos\KargoOdemeSimülasyon\KargoOdemeSimülasyon\obj\Debug\KargoOdemeSimülasyon.exe
+C:\Users\ilkay\source\repos\KargoOdemeSimülasyon\KargoOdemeSimülasyon\obj\Debug\KargoOdemeSimülasyon.pdb
